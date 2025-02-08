@@ -1,0 +1,5 @@
+COMO INSTALAR PLUGINS DE WORDPRESS MANUALMENTE:
+1.- Bajar el archivo .zip del plug-in desde su página web.
+2.- Crear una carpeta con el nombre del plugin y copiar ahí el archivo .zip que he bajado.
+3.- Descomprimir el archivo .zip (los archivos de la carpeta raíz deben estar en la carpeta que yo creé, cortarlos y pegarlos ahí y borrar la carpeta vacía que queda)
+4.- Ir a wp-admin de mi wordpress y hacer clic en el menú Plugins. Aparece la lista de los plug-ins instalados. Buscar mi plug-in en la lista y hacer clic en "Activar" (debajo del nombre de mi plug-in)
